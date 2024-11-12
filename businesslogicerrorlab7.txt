@@ -1,0 +1,14 @@
+Weak isolation on dual-use endpoint
+
+Credentials 
+wiener: peter
+
+End Goal 
+Change the adminstrator password and login as the administrator then delete the Carlos user
+
+Analysis
+1. Login as wiener user 
+    - Get csrf token
+2. Change the administrator password 
+3. Login as the administrator 
+4. Delete Carlos user 
